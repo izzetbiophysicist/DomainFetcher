@@ -1,4 +1,4 @@
-# fetch_protein_domains
+# DomainFetcher
 Fetches structures from the PDB and cuts them into single domain structures according to PFAM annotation. The script demands a PDB-pfam mapping that can be found at http://ftp.ebi.ac.uk/pub/databases/Pfam/mappings/  and a list of PDBs in csv  format containing the PDB codes in a single column. 
 
 # Usage
